@@ -7,3 +7,27 @@
 body {
     font-family: 'mondwest', serif;
 }
+
+h1 {
+    font-family: 'mondwest', serif;
+    font-size: 64px;
+    font-weight: normal;
+    line-height: 72px;
+    color: #000;
+}
+
+a {
+    font-family: 'mondwest', serif;
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 40px;
+    color: #0E1DE8;
+}
+
+p {
+    font-family: 'mondwest', serif;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #8E8E8E;
+}
