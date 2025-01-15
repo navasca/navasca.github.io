@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'mondwest';
+    src: url('PPMondwest-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'mondwest', serif;
+}
